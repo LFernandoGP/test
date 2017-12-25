@@ -7,4 +7,6 @@ for x in lista:
     if x%2==0:
         output.append(x)
 
-print(output)
+print("Valor {}".format(output))
+
+output.sort()
