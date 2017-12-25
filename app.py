@@ -9,4 +9,6 @@ for x in lista:
 
 print("Valor {}".format(output))
 
-output.sort()
+output.sort(reverse=True)
+
+newList = output[1:51]#
