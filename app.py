@@ -10,8 +10,3 @@ for x in lista:
 print("Valor {}".format(output))
 
 output.sort()
-
-import numpy as np
-import opencv as cv
-
-cv.open("install.txt")
